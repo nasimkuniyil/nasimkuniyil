@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @nasimkuniyil
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning MERN
-- 📫 Reach me on mail : md.nasimkuniyil@gmail.com
