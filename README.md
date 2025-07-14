@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nasimkuniyil
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in coding
+- 🌱 I’m currently exploring programming
