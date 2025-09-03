@@ -20,10 +20,5 @@ I enjoy building projects, learning new technologies, and experimenting with ide
 
 ---
 
-## 📊 GitHub Stats
-![Nasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim-username&show_icons=true&theme=radical)
-
----
-
 ⭐️ *“The only way to do great work is to love what you do.” – Steve Jobs*  
 
