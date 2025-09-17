@@ -14,7 +14,7 @@ I enjoy building projects, learning new technologies, and experimenting with ide
 ---
 
 ## 🛠️ Tech I Use
-- **Languages:** JavaScript, C, C++  
+- **Languages:** JavaScript, C++  
 - **Web:** HTML, CSS, Node.js, Express.js, MongoDB, React.js  
 - **Tools:** Git, GitHub, VS Code, Linux  
 
