@@ -20,5 +20,7 @@ I enjoy building projects, learning new technologies, and experimenting with ide
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
 ⭐️ *“The only way to do great work is to love what you do.” – Steve Jobs*  
 
