@@ -3,13 +3,10 @@
 I’m a **self-taught developer** who loves exploring the world of programming.  
 I enjoy building projects, learning new technologies, and experimenting with ideas.  
 
----
-
 ## 💻 About Me
-I’m a **self-taught web developer** passionate about building projects with **JavaScript, Node.js, and React**.  
 
+I’m a **self-taught web developer** passionate about building projects with **JavaScript, Node.js, and React**. 
 Curious by nature, I’m also exploring **Embedded Systems** and **Qt C++**, expanding my skills beyond the web.  
-
 Always learning, always coding 🚀
 
 ---
@@ -23,9 +20,8 @@ Always learning, always coding 🚀
 - HTML, CSS, Node.js, Express.js, MongoDB, React.js  
 
 **Tools & OS:**  
-- Git, GitHub, VS Code, Linux   
+- Git, GitHub, VS Code, Linux
 
----
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -55,10 +51,12 @@ Always learning, always coding 🚀
 ---
 
 ## 🌐 Connect with Me  
+<p>
+  <a href="https://linkedin.com/in/nasimkuniyil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://peerlist.io/nasimkuniyil"><img src="https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist"></a>
+  <a href="https://x.com/nasimkuniyil"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nasimkuniyil)  
-[![Peerlist](https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist)](https://peerlist.io/nasimkuniyil)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/nasimkuniyil)  
 
 ---
 
