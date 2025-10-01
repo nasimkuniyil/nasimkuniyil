@@ -33,7 +33,7 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasimkuniyil&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasimkuniyil&theme=github-dark)  
 
 ---
 
