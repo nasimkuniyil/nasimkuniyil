@@ -38,8 +38,8 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 ---
 
 ## 📂 Featured Projects
-- 🛒 [E-commerce Website](https://github.com/nasimkuniyil/ecommerce) – MERN stack with cart & checkout  
-- ✅ [Todo App](https://github.com/nasimkuniyil/todo-react) – React CRUD + animations  
+- 🛒 [E-commerce Website](https://github.com/nasimkuniyil/techkit-apple-store) – Express.js, Mongodb and ejs
+- ✅ [Todo App](https://github.com/nasimkuniyil/react-todo-app) – React CRUD
 - ⚡ [Embedded C Projects](#) – Microcontroller experiments (coming soon)  
 - 🖥️ [Qt Desktop Apps](#) – GUI apps with C++ (coming soon)
 
@@ -47,10 +47,9 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 
 ## 🌐 Connect with Me  
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;
-  <a href="https://peerlist.io/YOUR_LINK"><img src="https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist"></a>&nbsp;
-  <a href="https://x.com/YOUR_LINK"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>&nbsp;
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/nasimkuniyil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;
+  <a href="https://peerlist.io/nasimkuniyil"><img src="https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist"></a>&nbsp;
+  <a href="https://x.com/nasimkuniyil"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>&nbsp;
 </p>
 
 
