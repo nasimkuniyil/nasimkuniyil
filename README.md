@@ -35,23 +35,22 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasimkuniyil&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimkuniyil&layout=compact&theme=radical)  
-
 ---
 
 ## 📂 Featured Projects
-- 🛒 [E-commerce Website](https://github.com/nasimkuniyil/techkit-apple-sotre-online) – MERN stack project with cart & checkout  
-- ✅ [Todo App](https://github.com/nasimkuniyil/react-todo-app) – React CRUD with animations  
-- ⚡ [Embedded C Practice](#) – (Coming soon) Projects for microcontrollers  
-- 🖥️ [Qt Desktop App](#) – (Coming soon) GUI applications with Qt C++  
+- 🛒 [E-commerce Website](https://github.com/nasimkuniyil/ecommerce) – MERN stack with cart & checkout  
+- ✅ [Todo App](https://github.com/nasimkuniyil/todo-react) – React CRUD + animations  
+- ⚡ [Embedded C Projects](#) – Microcontroller experiments (coming soon)  
+- 🖥️ [Qt Desktop Apps](#) – GUI apps with C++ (coming soon)
 
 ---
 
 ## 🌐 Connect with Me  
 <p>
-  <a href="https://linkedin.com/in/nasimkuniyil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://peerlist.io/nasimkuniyil"><img src="https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist"></a>
-  <a href="https://x.com/nasimkuniyil"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;
+  <a href="https://peerlist.io/YOUR_LINK"><img src="https://img.shields.io/badge/Peerlist-333?style=for-the-badge&logo=peerlist"></a>&nbsp;
+  <a href="https://x.com/YOUR_LINK"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>&nbsp;
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 
