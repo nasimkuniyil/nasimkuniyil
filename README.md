@@ -40,8 +40,6 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 ## 📂 Featured Projects
 - 🛒 [E-commerce Website](https://github.com/nasimkuniyil/techkit-apple-store-online) – Express.js, Mongodb and ejs
 - ✅ [Todo App](https://github.com/nasimkuniyil/react-todo-app) – React CRUD
-- ⚡ [Embedded C Projects](#) – Microcontroller experiments (coming soon)  
-- 🖥️ [Qt Desktop Apps](#) – GUI apps with C++ (coming soon)
 
 ---
 
