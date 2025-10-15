@@ -28,13 +28,6 @@ Curious by nature, exploring **Embedded Systems** and **Qt C++** step by step.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasimkuniyil&theme=github-dark)  
-
 ---
 
 ## 📂 Featured Projects
